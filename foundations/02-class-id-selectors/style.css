@@ -1,0 +1,19 @@
+.one {
+    background-color: #edc5da;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.extra-one {
+    font-size: 24px;
+}
+
+#special {
+    font-size: 36px;
+    color: #2738f5;
+}
+
+#another {
+    background-color: #6bff7a;
+    font-size: 24px;
+    font-weight: bold;
+}
